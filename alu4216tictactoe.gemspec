@@ -5,7 +5,7 @@ require "alu4216tictactoe/version"
 Gem::Specification.new do |s|
   s.name        = "alu4216tictactoe"
   s.version     = Alu4216tictactoe::VERSION
-  s.authors     = ["josue"]
+  s.authors     = ["josss9229"]
   s.email       = ["josss9229@gmail.com"]
   s.homepage    = ""
   s.summary     = %q{Gema de tres en ralla}
