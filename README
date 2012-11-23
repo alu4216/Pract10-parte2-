@@ -1,6 +1,7 @@
 
 PARTE 1
 
+
 Considere el desarrollo de una aplicación para jugar al tres en raya. 
 El objetivo de esta práctica es la creación de una Gema en Ruby para el juego de tres en raya. Para ello se ha de utilizar la herramienta Bundler (http://gembundler.com/)
 1.- Utilizar bundle para crear la estructura estandar de una gema.
@@ -27,4 +28,4 @@ El objetivo de esta práctica es la construcción y publicación de una Gema en 
 gem build
 4.- Considerar su publicacion
 gem push
-5. Indique la URL del repositorio github o bitbucket que ha desarrollado.
+5.- Indique la URL del repositorio github o bitbucket que ha desarrollado.
